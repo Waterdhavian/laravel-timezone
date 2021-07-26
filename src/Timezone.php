@@ -1,4 +1,6 @@
-<?php namespace Gazugafan\Timezone;
+<?php
+
+namespace Waterdhavian\Timezone;
 
 use Illuminate\Support\Facades\Config;
 use Carbon\Carbon;

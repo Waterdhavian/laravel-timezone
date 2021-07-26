@@ -1,4 +1,6 @@
-<?php namespace Gazugafan\Timezone\Facades;
+<?php
+
+namespace Waterdhavian\Timezone\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

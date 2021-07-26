@@ -1,4 +1,6 @@
-<?php namespace Gazugafan\Timezone;
+<?php
+
+namespace Waterdhavian\Timezone;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Foundation\AliasLoader;

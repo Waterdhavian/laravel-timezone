@@ -1,5 +1,5 @@
 {
-    "name": "gazugafan/laravel-timezone",
+    "name": "waterdhavian/laravel-timezone",
     "description": "Date/time timezone storage and retrieval for Laravel 5",
     "keywords": ["laravel", "timezone", "timezones"],
 	"homepage": "https://github.com/gazugafan/laravel-timezone",
@@ -11,7 +11,7 @@
     },
 	"autoload": {
 		"psr-4": {
-			"Gazugafan\\Timezone\\": "src"
+			"Waterdhavian\\Timezone\\": "src"
 		}
 	},
     "require-dev": {
